@@ -33,7 +33,7 @@ googleapis-common-protos==1.59.0
 grpcio==1.54.2
 httplib2==0.22.0
 inflection==0.5.1
-jax==0.4.12
+#jax==0.4.12
 jupytext==1.14.5
 keras==2.12.0
 latex==0.7.0
