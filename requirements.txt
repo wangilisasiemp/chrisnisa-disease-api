@@ -88,7 +88,7 @@ smmap==5.0.0
 statsmodels==0.14.1
 streamlit==1.23.1
 tables==3.6.1
-TBB==0.2
+TBB==2018.0.4
 tempdir==0.7.1
 tensorboard==2.12.3
 tensorboard-data-server==0.7.1
