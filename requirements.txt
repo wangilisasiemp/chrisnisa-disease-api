@@ -82,7 +82,8 @@ rsa==4.9
 scikit-learn-intelex==2021.2.1
 scipy==1.9.2
 shutilwhich==1.1.0
-sip==4.19.13
+#sip==4.19.13
+sip==5.0.0
 smmap==5.0.0
 statsmodels==0.13.2
 streamlit==1.23.1
