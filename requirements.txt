@@ -48,7 +48,7 @@ ml-dtypes==0.2.0
 mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
-navigator-updater==0.3.0
+#navigator-updater==0.3.0
 numpy==1.23.5
 oauthlib==3.2.2
 openpyxl==3.0.10
