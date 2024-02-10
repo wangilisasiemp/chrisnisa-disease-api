@@ -85,7 +85,7 @@ shutilwhich==1.1.0
 #sip==4.19.13
 sip==5.0.0
 smmap==5.0.0
-statsmodels==0.14.1
+#statsmodels==0.14.1
 streamlit==1.23.1
 tables==3.6.1
 TBB==2018.0.4
